@@ -22,4 +22,4 @@ https://github.com/AllCitySor/modern_deathscreen
 Aucun support ne sera fait car il est simple à utiliser
 
 
-Merci de mettre mon nom si vous le modifier 
+Merci de mettre mon nom si vous l'éditez
